@@ -1,7 +1,7 @@
 # Hi there, I'm Muhammad Abdillah Arsyaf 👋
 ### Software Quality Assurance Engineer | Information Systems Student
 
-Information Systems student (B.S. candidate) transitioning into Software Quality Assurance with 4+ years of operational experience in data validation, reconciliation, and cross-divisional issue resolution. 
+Information Systems student transitioning into Software Quality Assurance with 4+ years of operational experience in data validation, reconciliation, and cross-divisional issue resolution. 
 
 Equipped with hands-on expertise in **Manual Testing**, **Web Test Automation (Selenium Python)**, **API Testing (Postman)**, **BDD (Gherkin)**, and **CI/CD integration (GitHub Actions)** from intensive QA Bootcamps and certifications.
 
