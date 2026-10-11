@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammad Abdillah Arsyaf 👋
+# Hi there, I'm Muhammad Abdillah Arsyaf
 ### Software Quality Assurance Engineer | Information Systems Student
 
 Information Systems student transitioning into Software Quality Assurance with 4+ years of operational experience in data validation, reconciliation, and cross-divisional issue resolution. 
@@ -37,12 +37,6 @@ Equipped with hands-on expertise in **Manual Testing**, **Web Test Automation (S
 
 - **S1 Sistem Informasi** — Universitas Siber Muhammadiyah *(In Progress)*
 - **QA Automation Bootcamp (Batch 9)** — Test Aplikasi Kamu *(Feb 2025 - Mar 2025)*
-
----
-
-## 📊 GitHub Stats
-
-![Muhammad Abdillah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[USERNAME_GITHUB_KAMU]&show_icons=true&theme=radial)
 
 ---
 
